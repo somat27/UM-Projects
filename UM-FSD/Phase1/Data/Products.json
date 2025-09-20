@@ -1,0 +1,231 @@
+{
+    "Beverages": [
+        {
+            "ProductName": "Agua Mineral",
+            "Price": [1, 3],
+            "Quantity": [10, 200]
+        },
+        {
+            "ProductName": "Refrigerante",
+            "Price": [1, 3],
+            "Quantity": [5, 50]
+        }
+    ],
+    "Meat": [
+        {
+            "ProductName": "Carne Bovina",
+            "Price": [8, 15],
+            "Quantity": [1, 10]
+        },
+        {
+            "ProductName": "Frango",
+            "Price": [4, 8],
+            "Quantity": [1, 10]
+        },
+        {
+            "ProductName": "Peixe",
+            "Price": [6, 12],
+            "Quantity": [1, 8]
+        }
+    ],
+    "Fruits": [
+        {
+            "ProductName": "Banana",
+            "Price": [0.2, 1],
+            "Quantity": [5, 100]
+        },
+        {
+            "ProductName": "Laranja",
+            "Price": [0.3, 0.8],
+            "Quantity": [10, 100]
+        },
+        {
+            "ProductName": "Maca",
+            "Price": [0.4, 1],
+            "Quantity": [10, 100]
+        },
+        {
+            "ProductName": "Morango",
+            "Price": [0.8, 2],
+            "Quantity": [5, 50]
+        },
+        {
+            "ProductName": "Uva",
+            "Price": [1, 3],
+            "Quantity": [5, 50]
+        }
+    ],
+    "Grains": [
+        {
+            "ProductName": "Arroz",
+            "Price": [1.5, 3],
+            "Quantity": [1, 10]
+        },
+        {
+            "ProductName": "Feijao",
+            "Price": [1, 2],
+            "Quantity": [1, 10]
+        },
+        {
+            "ProductName": "Lentilha",
+            "Price": [1.5, 3],
+            "Quantity": [1, 10]
+        }
+    ],
+    "Bakery": [
+        {
+            "ProductName": "Pao",
+            "Price": [1, 2],
+            "Quantity": [10, 100]
+        }
+    ],
+    "Snacks": [
+        {
+            "ProductName": "Biscoito",
+            "Price": [0.5, 2],
+            "Quantity": [5, 50]
+        },
+        {
+            "ProductName": "Chocolate",
+            "Price": [1.5, 3],
+            "Quantity": [5, 30]
+        }
+    ],
+    "Vegetables": [
+        {
+            "ProductName": "Alface",
+            "Price": [0.5, 1.5],
+            "Quantity": [10, 100]
+        },
+        {
+            "ProductName": "Batata",
+            "Price": [0.4, 1],
+            "Quantity": [10, 100]
+        },
+        {
+            "ProductName": "Cenoura",
+            "Price": [0.3, 1],
+            "Quantity": [10, 100]
+        },
+        {
+            "ProductName": "Pepino",
+            "Price": [0.5, 1.5],
+            "Quantity": [10, 100]
+        },
+        {
+            "ProductName": "Tomate",
+            "Price": [0.5, 1.5],
+            "Quantity": [10, 100]
+        }
+    ],
+    "Electronics": [
+        {
+            "ProductName": "Telemóvel",
+            "Price": [100, 1000],
+            "Quantity": [1, 50]
+        },
+        {
+            "ProductName": "Portátil",
+            "Price": [500, 2000],
+            "Quantity": [1, 30]
+        },
+        {
+            "ProductName": "Tablet",
+            "Price": [150, 800],
+            "Quantity": [1, 40]
+        },
+        {
+            "ProductName": "Câmara Fotográfica",
+            "Price": [200, 1500],
+            "Quantity": [1, 20]
+        }
+    ],
+    "Clothing": [
+        {
+            "ProductName": "T-shirt",
+            "Price": [5, 20],
+            "Quantity": [10, 200]
+        },
+        {
+            "ProductName": "Calças",
+            "Price": [20, 50],
+            "Quantity": [10, 150]
+        },
+        {
+            "ProductName": "Casaco",
+            "Price": [30, 100],
+            "Quantity": [5, 100]
+        },
+        {
+            "ProductName": "Sapatos",
+            "Price": [20, 80],
+            "Quantity": [10, 100]
+        }
+    ],
+    "Books": [
+        {
+            "ProductName": "Romance",
+            "Price": [10, 30],
+            "Quantity": [5, 200]
+        },
+        {
+            "ProductName": "Ficção Científica",
+            "Price": [15, 35],
+            "Quantity": [5, 150]
+        },
+        {
+            "ProductName": "Auto-ajuda",
+            "Price": [8, 25],
+            "Quantity": [10, 100]
+        },
+        {
+            "ProductName": "História",
+            "Price": [12, 40],
+            "Quantity": [5, 120]
+        }
+    ],
+    "Toys": [
+        {
+            "ProductName": "Carro de Brinquedo",
+            "Price": [5, 20],
+            "Quantity": [10, 100]
+        },
+        {
+            "ProductName": "Boneca",
+            "Price": [10, 25],
+            "Quantity": [10, 50]
+        },
+        {
+            "ProductName": "Jogo de Tabuleiro",
+            "Price": [15, 40],
+            "Quantity": [5, 30]
+        },
+        {
+            "ProductName": "Blocos de Construção",
+            "Price": [20, 60],
+            "Quantity": [5, 40]
+        }
+    ],
+    "Tools": [
+        {
+            "ProductName": "Chave de Fendas",
+            "Price": [2, 10],
+            "Quantity": [10, 100]
+        },
+        {
+            "ProductName": "Martelo",
+            "Price": [5, 15],
+            "Quantity": [5, 50]
+        },
+        {
+            "ProductName": "Alicate",
+            "Price": [3, 12],
+            "Quantity": [5, 40]
+        },
+        {
+            "ProductName": "Serra",
+            "Price": [8, 25],
+            "Quantity": [5, 20]
+        }
+    ]
+}

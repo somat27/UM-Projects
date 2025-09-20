@@ -1,0 +1,60 @@
+[
+    {
+        "ID": 1,
+        "Name": "Tomas",
+        "IP": "10.8.0.4",
+        "Port": 1025,
+        "Products": [
+            {
+                "Name": "Formal",
+                "Category": "Shoes",
+                "Price": 93.69,
+                "Quantity": 18
+            },
+            {
+                "Name": "Telemovel",
+                "Category": "Smartphones",
+                "Price": 781.49,
+                "Quantity": 74
+            },
+            {
+                "Name": "Ficcao Cientifica",
+                "Category": "Books",
+                "Price": 33.53,
+                "Quantity": 35
+            },
+            {
+                "Name": "Comedia",
+                "Category": "Movies",
+                "Price": 14.69,
+                "Quantity": 79
+            }
+        ]
+    },
+    {
+        "ID": 2,
+        "Name": "Tomas",
+        "IP": "10.8.0.28",
+        "Port": 1026,
+        "Products": [
+            {
+                "Name": "Auto-ajuda",
+                "Category": "Books",
+                "Price": 23.92,
+                "Quantity": 86
+            },
+            {
+                "Name": "T-shirt",
+                "Category": "Clothing",
+                "Price": 7.43,
+                "Quantity": 131
+            },
+            {
+                "Name": "Desportivo",
+                "Category": "Shoes",
+                "Price": 70.03,
+                "Quantity": 101
+            }
+        ]
+    }
+]

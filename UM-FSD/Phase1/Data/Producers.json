@@ -1,0 +1,208 @@
+[
+    {
+        "ID": 1,
+        "Name": "Tomas",
+        "IP": "10.8.0.53",
+        "Port": 1025,
+        "Products": [
+            {
+                "Name": "Serra",
+                "Category": "Tools",
+                "Price": 9.0,
+                "Quantity": 133
+            },
+            {
+                "Name": "T-shirt",
+                "Category": "Clothing",
+                "Price": 7.22,
+                "Quantity": 110
+            },
+            {
+                "Name": "Carro de Brinquedo",
+                "Category": "Toys",
+                "Price": 18.44,
+                "Quantity": 149
+            }
+        ]
+    },
+    {
+        "ID": 2,
+        "Name": "Tomas",
+        "IP": "10.8.0.53",
+        "Port": 1026,
+        "Products": [
+            {
+                "Name": "Carne Bovina",
+                "Category": "Meat",
+                "Price": 9.96,
+                "Quantity": 160
+            },
+            {
+                "Name": "Alicate",
+                "Category": "Tools",
+                "Price": 9.9,
+                "Quantity": 135
+            },
+            {
+                "Name": "Batata",
+                "Category": "Vegetables",
+                "Price": 0.46,
+                "Quantity": 146
+            },
+            {
+                "Name": "Agua Mineral",
+                "Category": "Beverages",
+                "Price": 2.68,
+                "Quantity": 113
+            }
+        ]
+    },
+    {
+        "ID": 3,
+        "Name": "Fernando",
+        "IP": "10.8.0.8",
+        "Port": 1027,
+        "Products": [
+            {
+                "Name": "Casaco",
+                "Category": "Clothing",
+                "Price": 41.5,
+                "Quantity": 45
+            },
+            {
+                "Name": "História",
+                "Category": "Books",
+                "Price": 14.88,
+                "Quantity": 96
+            },
+            {
+                "Name": "Banana",
+                "Category": "Fruits",
+                "Price": 0.83,
+                "Quantity": 11
+            },
+            {
+                "Name": "Ficção Científica",
+                "Category": "Livros",
+                "Price": 24.36,
+                "Quantity": 60
+            }
+        ]
+    },
+    {
+        "ID": 4,
+        "Name": "Fernando",
+        "IP": "10.8.0.8",
+        "Port": 1028,
+        "Products": [
+            {
+                "Name": "Tablet",
+                "Category": "Electronics",
+                "Price": 170.31,
+                "Quantity": 38
+            },
+            {
+                "Name": "Boneca",
+                "Category": "Toys",
+                "Price": 20.54,
+                "Quantity": 10
+            },
+            {
+                "Name": "Laranja",
+                "Category": "Fruits",
+                "Price": 0.54,
+                "Quantity": 70
+            },
+            {
+                "Name": "História",
+                "Category": "Livros",
+                "Price": 12.15,
+                "Quantity": 21
+            },
+            {
+                "Name": "Serra",
+                "Category": "Tools",
+                "Price": 20.44,
+                "Quantity": 19
+            }
+        ]
+    },
+    {
+        "ID": 5,
+        "Name": "ZeMiguel",
+        "IP": "10.8.0.16",
+        "Port": 1029,
+        "Products": [
+            {
+                "Name": "Lentilha",
+                "Category": "Grains",
+                "Price": 2.95,
+                "Quantity": 2
+            },
+            {
+                "Name": "Casaco",
+                "Category": "Clothing",
+                "Price": 49.87,
+                "Quantity": 25
+            },
+            {
+                "Name": "Biscoito",
+                "Category": "Snacks",
+                "Price": 1.72,
+                "Quantity": 36
+            }
+        ]
+    },
+    {
+        "ID": 6,
+        "Name": "ZeMiguel",
+        "IP": "10.8.0.16",
+        "Port": 1030,
+        "Products": [
+            {
+                "Name": "Auto-ajuda",
+                "Category": "Livros",
+                "Price": 14.68,
+                "Quantity": 70
+            },
+            {
+                "Name": "Cenoura",
+                "Category": "Vegetables",
+                "Price": 0.5,
+                "Quantity": 39
+            },
+            {
+                "Name": "Batata",
+                "Category": "Vegetables",
+                "Price": 0.83,
+                "Quantity": 15
+            }
+        ]
+    },
+    {
+        "ID": 7,
+        "Name": "Tomas",
+        "IP": "127.0.0.1",
+        "Port": 1031,
+        "Products": [
+            {
+                "Name": "Arroz",
+                "Category": "Grains",
+                "Price": 1.7,
+                "Quantity": 6
+            },
+            {
+                "Name": "Lentilha",
+                "Category": "Grains",
+                "Price": 1.8,
+                "Quantity": 11
+            },
+            {
+                "Name": "Serra",
+                "Category": "Tools",
+                "Price": 9.54,
+                "Quantity": 18
+            }
+        ]
+    }
+]
