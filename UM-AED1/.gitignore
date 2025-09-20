@@ -1,0 +1,10 @@
+# App data
+users
+posts
+friendships
+lastlog
+aux
+auxfile
+
+# Binaries
+*.exe

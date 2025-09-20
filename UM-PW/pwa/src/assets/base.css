@@ -1,0 +1,113 @@
+body {
+    background-color: #F8FAFC;
+}
+
+h1 {
+    text-align: left;
+    font-size: 20px;
+    color: #1e1e1e;
+    margin: 0;
+}
+
+h2 {
+    text-align: left;
+    font-size: 16px;
+    margin: 0;
+}
+
+h3 {
+    text-align: left;
+    font-size: 12px;
+    color: #6c757d;
+    margin: 0;
+}
+
+.flex-coluna {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-linha {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex {
+    flex: 1;
+}
+
+.margem {
+    margin: 2.5vh 5vw;
+}
+
+.margem-cima {
+    margin-top: 1.5vh;
+}
+
+.transparente {
+    border: transparent;
+    background-color: transparent;
+}
+
+.centro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.painel {
+    padding: 2.5vh 2.5vh;
+    gap: 2.5vw;
+
+    background-color: #fff;
+
+    border: 1px solid #e6eaf0;
+    border-radius: 15px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.item-ponta {
+    justify-content: space-between;
+}
+
+.pop-up {
+    position: relative; 
+    display: inline-block;
+}
+
+.fundo {
+    position: fixed;
+
+    height: 100vh;
+    width: 100vw;
+    top: 0;
+    left: 0;
+
+    background-color: rgba(0, 0, 0, 0.5);
+
+    z-index: 50;
+}
+
+.icon {
+    color: #204C6D;
+}
+
+.fundo-verde {
+    background-color: #50C878;
+}
+
+.fundo-amarelo {
+    background-color: #FFD700;
+}
+
+.fundo-vermelho {
+    background-color: #FF3131;
+}
+
+.fundo-cinza {
+    background-color: #F5F5F5;
+}
+
+.fundo-azul {
+    background-color: #204C6D; 
+}
