@@ -13,7 +13,7 @@ A consolidated hub for my University of Minho projects. Each entry below include
   - Console patient and doctor management with per‑doctor waitlists and consistency checks.
   - Tech: C (Windows console), text-file persistence (`patients.txt`, `doctors.txt`).
   - Highlights: CRUD for patients/doctors, waitlist add/pop, largest waitlist, startup validation.
-  - Read more: UM-AED2](UM-AED2/README.md)
+  - Read more: [UM-AED2](UM-AED2/README.md)
 
 - UM-DAI — BRT Braga App (Java/Swing + MySQL)
   - Desktop app for bus ticketing, routes, and schedules (BRT Braga).
