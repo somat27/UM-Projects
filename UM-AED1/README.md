@@ -82,4 +82,3 @@ After building, from the project directory:
 ## Author & license
 - Author: Tomás Gonçalves
 - Course/Unit: University of Minho - AED I
-- License: MIT — see `LICENSE` for details.

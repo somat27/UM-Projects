@@ -103,5 +103,3 @@ Notes:
 ## Author & License
 - Author: Tomás Gonçalves
 - Course/Unit: Universidade do Minho — Fundamentos de Sistemas Distribuídos (FSD)
-- License: MIT — see `LICENSE` for details.
-

@@ -69,5 +69,3 @@ After building, from the project directory:
 ## Author & License
 - Author: Tomás Gonçalves
 - Course/Unit: University of Minho — Sistemas Operativos (SO)
-- License: MIT — see `LICENSE` for details.
-
