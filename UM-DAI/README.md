@@ -124,5 +124,3 @@ CREATE TABLE Paragens (
 
 ## Author & license
 - Academic project for DAI — University of Minho.
-- License: MIT — see `LICENSE` for details.
-

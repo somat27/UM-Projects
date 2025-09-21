@@ -90,5 +90,4 @@ Required values (per service):
 
 ## Author & License
 - Course/Unit: University of Minho — IAIE
-- License: MIT — see `LICENSE` for details.
 
